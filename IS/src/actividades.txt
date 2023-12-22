@@ -1,0 +1,16 @@
+Información de actividades:
+
+
+
+Nombre: Basededatos
+Descripcion: Principiosbasicos
+Aforo: 0personas
+Fecha Incio: 29diciembre
+Fecha Fin: 4febrero
+Ponente: empty
+Ubicacion: empty
+Precio: 0
+Asistencia Minima: 0
+duracion: 0horas
+
+

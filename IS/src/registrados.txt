@@ -1,0 +1,5 @@
+joseluis 1111 usuario
+alvaro 2222 organizador
+carlos 3333 directoracademico
+alfonso 4444 organizador
+felipe 5555 usuario

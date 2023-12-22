@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/my_tests.dir/test-eliminarusuario.cc.o CMakeFiles/my_tests.dir/test-existeactividad.cc.o CMakeFiles/my_tests.dir/test-inscribirusuario.cc.o CMakeFiles/my_tests.dir/test-pedirdatos.cc.o CMakeFiles/my_tests.dir/test-registrarusuario.cc.o -o my_tests  -lgtest -lgtest_main-general 

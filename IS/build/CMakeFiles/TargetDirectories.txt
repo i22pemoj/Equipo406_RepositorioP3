@@ -1,0 +1,8 @@
+/home/joseluis/Escritorio/2ºCarrera/IS/build/CMakeFiles/edit_cache.dir
+/home/joseluis/Escritorio/2ºCarrera/IS/build/CMakeFiles/rebuild_cache.dir
+/home/joseluis/Escritorio/2ºCarrera/IS/build/src/CMakeFiles/my_executable.dir
+/home/joseluis/Escritorio/2ºCarrera/IS/build/src/CMakeFiles/edit_cache.dir
+/home/joseluis/Escritorio/2ºCarrera/IS/build/src/CMakeFiles/rebuild_cache.dir
+/home/joseluis/Escritorio/2ºCarrera/IS/build/tests/CMakeFiles/my_tests.dir
+/home/joseluis/Escritorio/2ºCarrera/IS/build/tests/CMakeFiles/edit_cache.dir
+/home/joseluis/Escritorio/2ºCarrera/IS/build/tests/CMakeFiles/rebuild_cache.dir
